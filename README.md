@@ -8,4 +8,4 @@
 </ul>
 
 <h4><strong>Chat</strong></h4>
-<img src="https://imgur.com/XbAZKGh" alt="img chat" />
+<img src="https://i.imgur.com/XbAZKGh.png" alt="img chat" />
