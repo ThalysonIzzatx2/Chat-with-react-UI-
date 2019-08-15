@@ -1,9 +1,11 @@
-##Chat with ReactJS
+<h2>Chat with ReactJS</h2>
 
-###`Instalação`
-git clone https://github.com/ThalysonIzzatx2/Chat-with-react-UI-
-npm install
-npm start
+<h4>Instalação</h4>
+<ul>
+  <li>git clone https://github.com/ThalysonIzzatx2/Chat-with-react-UI- </li>
+  <li>npm install</li>
+  <li>npm start</li>
+</ul>
 
-###`Chat`
+<h4><strong>Chat</strong></h4>
 <img src="https://imgur.com/XbAZKGh" alt="img chat" />
